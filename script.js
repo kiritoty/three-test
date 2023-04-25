@@ -57,6 +57,8 @@ for (const texture of textures) {
     materials.push(material)
 }
 
+console.log("test")
+
 /**
  * Models
  */
